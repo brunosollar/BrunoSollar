@@ -15,8 +15,6 @@ I'm a self-taught Back-End developer
 
 I am a Back-end Developer
 
-I am currently working for [San Andreas Stories](https://discord.gg/9KeDB7VbwY)
-
 # Languages and Tools:
 
 <div style="display: inline_block">
