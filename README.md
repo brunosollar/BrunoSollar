@@ -13,8 +13,6 @@
 
 I'm a self-taught Back-End developer
 
-I am a Back-end Developer
-
 # Languages and Tools:
 
 <div style="display: inline_block">
